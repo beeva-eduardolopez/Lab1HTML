@@ -66,6 +66,7 @@ a:hover{
 	background-color:white;
 	color: grey;
 	margin-top:15px;
+    font: sans-serif;
 }
 .input-big{
 	width: 228px; 
