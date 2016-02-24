@@ -147,6 +147,10 @@ a:hover{
    display: inline-block;
 }
 
+.footer-color {
+  color: #81BEF7;
+}
+
 
 .summary {
   margin-bottom: 60px;
