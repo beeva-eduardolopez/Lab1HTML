@@ -66,7 +66,6 @@ a:hover{
 	background-color:white;
 	color: grey;
 	margin-top:15px;
-    font: sans-serif;
 }
 .input-big{
 	width: 228px; 
@@ -96,7 +95,7 @@ a:hover{
 	text-align: center;
 	width:500px;
 	height:410px;
-	background-color: #A9E2F3;
+	background-color: #81BEF7;
 	margin: 50px auto;
     padding-top: 10px;
 }
@@ -121,7 +120,7 @@ a:hover{
 
  
  .date-em {
-  color: #2ECCFA;
+  color: #81BEF7;
   font-style: oblique;
   margin-top: -20px;
   margin-left: 120px;
