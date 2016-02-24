@@ -113,10 +113,17 @@ a:hover{
      margin-top: -20px;
  }
  
- .grey-em {
-  color: dimgrey;
+  .margin-less-left{
+     margin-top: -20px;
+     margin-left: 120px;
+ }
+
+ 
+ .date-em {
+  color: #2ECCFA;
   font-style: oblique;
   margin-top: -20px;
+  margin-left: 120px;
 }
 
 .description {
