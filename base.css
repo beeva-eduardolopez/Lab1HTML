@@ -23,7 +23,7 @@ h2 {
   margin-bottom: -20px;
 }
  table{
-	text-align:center;
+	text-align: left;
 	width: 100%
  }
 p {
@@ -32,6 +32,49 @@ p {
 a:link, a:visited, a:hover, a:active {
   text-decoration: none;
 }
+
+footer {
+	color: grey;
+	text-align: center;
+	padding-top: 20px;
+}
+.input-normal{
+	width: 228px; 
+	height: 25px;
+	-webkit-border-radius: 3px 5px 1px 4px; /* recuerda la primera frase */
+	-moz-border-radius: 4px; /* si quieres todas las esquinas iguales */
+	border-radius: 5px;
+}
+.input-big{
+	width: 228px; 
+	height: 160px;
+	-webkit-border-radius: 3px 5px 1px 4px; /* recuerda la primera frase */
+	-moz-border-radius: 4px; /* si quieres todas las esquinas iguales */
+	border-radius: 5px;
+}
+.center-div{
+	margin: 20px 200px 20px 200px;
+}
+
+.white-uppercase{
+	text-transform: uppercase;
+	color: white;
+	text-align: left;
+	font-size: 15px;
+	margin-left: 135px;
+}
+
+.fill-blue{
+	-webkit-border-radius: 3px 5px 1px 4px; /* recuerda la primera frase */
+	-moz-border-radius: 4px; /* si quieres todas las esquinas iguales */
+	border-radius: 20px;
+	text-align: center;
+	width:500px;
+	height:450px;
+	background-color: #81DAF5;
+	margin: 50px auto;
+}
+
 
 .nav-bar {
   box-shadow: 0px 0px 3px 0px rgba(50, 50, 50, 0.6);
@@ -66,12 +109,7 @@ a:link, a:visited, a:hover, a:active {
   text-align: center;
 }
 
-.footer {
-  text-align: center;
-  margin: 0 auto;
-}
 
 .summary {
-  margin-top: 40px;
   margin-bottom: 60px;
 }
