@@ -38,12 +38,34 @@ footer {
 	text-align: center;
 	padding-top: 20px;
 }
+
+ a:target {
+  color: #ebebeb;
+}
+a:hover{
+	color: #ebebeb;
+}
+
+
 .input-normal{
 	width: 228px; 
 	height: 25px;
 	-webkit-border-radius: 3px 5px 1px 4px; /* recuerda la primera frase */
 	-moz-border-radius: 4px; /* si quieres todas las esquinas iguales */
 	border-radius: 5px;
+	background-color:white;
+	color: grey;
+}
+
+.input-button{
+	width: 228px; 
+	height: 25px;
+	-webkit-border-radius: 3px 5px 1px 4px; /* recuerda la primera frase */
+	-moz-border-radius: 4px; /* si quieres todas las esquinas iguales */
+	border-radius: 5px;
+	background-color:white;
+	color: grey;
+	margin-top:15px;
 }
 .input-big{
 	width: 228px; 
@@ -51,6 +73,7 @@ footer {
 	-webkit-border-radius: 3px 5px 1px 4px; /* recuerda la primera frase */
 	-moz-border-radius: 4px; /* si quieres todas las esquinas iguales */
 	border-radius: 5px;
+	color: grey;
 }
 .center-div{
 	margin: 20px 200px 20px 200px;
@@ -60,8 +83,9 @@ footer {
 	text-transform: uppercase;
 	color: white;
 	text-align: left;
-	font-size: 15px;
+	font-size: 12px;
 	margin-left: 135px;
+	margin-bottom: auto;
 }
 
 .fill-blue{
@@ -70,8 +94,8 @@ footer {
 	border-radius: 20px;
 	text-align: center;
 	width:500px;
-	height:450px;
-	background-color: #81DAF5;
+	height:410px;
+	background-color: #A9E2F3;
 	margin: 50px auto;
 }
 
